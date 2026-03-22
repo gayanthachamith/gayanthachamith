@@ -1,16 +1,23 @@
-## Hi there 👋
+# Gayantha Chamith 👋
 
-<!--
-**gayanthachamith/gayanthachamith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Full Stack Developer** with expertise in **PHP (CodeIgniter)**, **Java**, and **Python**. Passionate about building scalable, maintainable, and efficient code, I love taking on challenging projects and always strive to learn and grow.
 
-Here are some ideas to get you started:
+### 💻 Technologies & Tools:
+- **Languages:** PHP, Java, Python
+- **Frameworks:** CodeIgniter, Spring, Flask
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:** Git, GitHub
+- **Others:** Docker, RESTful APIs, CI/CD, Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌱 Currently Learning:
+- Cloud Computing
+- Data Analytics & SQL
+- JavaScript & Frontend Frameworks (React, Angular)
+
+### 📬 Get in Touch:
+- [LinkedIn](https://www.linkedin.com/in/gayanthachamith/)
+
+---
+
+Feel free to check out my repositories and explore the code. I'm open to contributions and collaborations!
