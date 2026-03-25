@@ -1,6 +1,6 @@
 # Gayantha Chamith 👋
 
-Welcome to my GitHub profile! I'm a **Full Stack Software Engineer** with expertise in **PHP (CodeIgniter)**, **Java**, and **Python**. Passionate about building scalable, maintainable, and efficient code, I love taking on challenging projects and always strive to learn and grow.
+Welcome to my GitHub! I'm a Full Stack Software Engineer with experience in **PHP (CodeIgniter), Java, and Python**, along with modern front-end technologies. I’m passionate about building scalable and efficient systems and continuously improving my skills through real-world projects.
 
 ### 📬 How to Reach Me:
 I'm always open to new projects, collaborations, and learning opportunities. Feel free to reach out to me through the following channels:
