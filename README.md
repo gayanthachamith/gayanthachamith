@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** with expertise in *
 ### 📬 How to Reach Me:
 I'm always open to new projects, collaborations, and learning opportunities. Feel free to reach out to me through the following channels:
 
-- **Email:** [gayantha@email.com](mailto:gayantha@email.com)  
+- **Email:** [gayantha.chamith17254@gmail.com](mailto:gayantha.chamith17254@gmail.com)  
 - **LinkedIn:** [Gayantha Chamith](https://www.linkedin.com/in/gayanthachamith/)
 
 
